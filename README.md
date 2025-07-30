@@ -1,8 +1,10 @@
-README
-
 # Frieze Pattern Generator
 
 A Python script that generates the seven frieze patterns from any input image using PIL (Python Imaging Library).  
+
+# Author
+Gavril Gapeyev
+
 
 ## Features
 
