@@ -31,7 +31,7 @@ pip install Pillow
 python AP_Frieze.py
 
 # Follow the prompts:
-# 1. Enter your image filename (e.g., "image.png”). Make sure your image file is in the same directory as the script, and include the file extension.
-# 2. Choose a frieze pattern (p1, p1m1, p11m, p2mm, p2, p11g, p2mg)
-# 3. View the generated pattern 
-# 4. Choose to generate another pattern or exit
+ 1. Enter your image filename (e.g., "image.png”). Make sure your image file is in the same directory as the script, and include the file extension.
+ 2. Choose a frieze pattern (p1, p1m1, p11m, p2mm, p2, p11g, p2mg)
+ 3. View the generated pattern 
+ 4. Choose to generate another pattern or exit
